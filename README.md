@@ -8,8 +8,8 @@
 </head>
 <body>
     <header>
-        <h1>私の読書記録</h1>
-        <p>これまで読んだ本を記録しましょう！</p>
+        <h1>読書記録</h1>
+        <p>本のタイトルと感想を記録しましょう！</p>
     </header>
 
     <section>
@@ -17,15 +17,6 @@
         <form id="book-form">
             <label for="title">本のタイトル：</label>
             <input type="text" id="title" name="title" required>
-
-            <label for="author">著者名：</label>
-            <input type="text" id="author" name="author" required>
-
-            <label for="startDate">読書開始日：</label>
-            <input type="date" id="startDate" name="startDate" required>
-
-            <label for="endDate">読書終了日：</label>
-            <input type="date" id="endDate" name="endDate" required>
 
             <label for="comments">感想：</label>
             <textarea id="comments" name="comments" rows="4" required></textarea>
@@ -48,11 +39,4 @@
     <script src="script.js"></script>
 </body>
 </html>
-
-<section>
-    <h2>記録した本</h2>
-    <ul id="book-list">
-        <!-- ここに読書記録が表示されます -->
-    </ul>
-</section>
 
