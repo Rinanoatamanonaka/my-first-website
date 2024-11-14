@@ -48,3 +48,11 @@
     <script src="script.js"></script>
 </body>
 </html>
+
+<section>
+    <h2>記録した本</h2>
+    <ul id="book-list">
+        <!-- ここに読書記録が表示されます -->
+    </ul>
+</section>
+
