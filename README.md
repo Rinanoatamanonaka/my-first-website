@@ -1,5 +1,4 @@
-# my-first-website
-<!DOCTYPE html>
+
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
