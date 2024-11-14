@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+/* ヘッダーのスタイル */
+header {
+    background-color: #39a9eb;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* セクションのスタイル */
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #333;
+}
+
+/* フッターのスタイル */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
