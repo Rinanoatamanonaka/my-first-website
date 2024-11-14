@@ -15,9 +15,6 @@
         <h2>目次</h2>
         <ol>
             <li><a href="#section1">1. 紹介</a></li>
-            <li><a href="#section2">2. 連絡先</a></li>
-            <li><a href="#section3">3. 趣味</a></li>
-        </ol>
-    </nav>
+           
 
    
